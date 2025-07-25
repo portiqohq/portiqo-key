@@ -3,4 +3,5 @@
   (lib (name "BQ25100")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_BQ25100YFPR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "BQ51003")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_BQ51003YFPR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "CSD85301Q2")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_CSD85301Q2/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "BQ51013B")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_BQ51013BRHLR/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
